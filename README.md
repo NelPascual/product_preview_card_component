@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/NelPascual/results_summary_component)
-- Live Site URL: [Add live site URL here](https://results-summary-component-nelpascual.netlify.app/)
+- Solution URL: [Add solution URL here](https://github.com/NelPascual/product_preview_card_component)
+- Live Site URL: [Add live site URL here](https://product-card-component-nelpascual.netlify.app/)
 
 ## My process
 
