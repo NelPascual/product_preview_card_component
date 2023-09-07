@@ -1,0 +1,23 @@
+@media only screen and (min-width: 640px) {
+
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .main-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .image-container {
+        background-image: url(../img/image-product-desktop.jpg);
+        border-radius: 1rem 0 0 1rem;
+    }
+
+    .text-container {
+        border-radius: 0 1rem 1rem 0;
+    }
+}
