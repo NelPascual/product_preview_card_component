@@ -102,9 +102,7 @@ img {
     padding: 1.5rem 1rem;
 }
 
-.image-container {
-    background-image: url(../img/image-product-mobile.jpg);
-    background-size: cover;
+.image-container picture img {
     border-radius: 1rem 1rem 0 0;
     min-height: 26.3rem;
     min-width: 35.5rem;

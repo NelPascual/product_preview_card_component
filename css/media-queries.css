@@ -12,8 +12,7 @@
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .image-container {
-        background-image: url(../img/image-product-desktop.jpg);
+    .image-container picture img {
         border-radius: 1rem 0 0 1rem;
     }
 
